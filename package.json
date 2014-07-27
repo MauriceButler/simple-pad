@@ -1,0 +1,25 @@
+{
+  "name": "simple-pad",
+  "version": "0.0.0",
+  "description": "Yet another left and right padding module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MauriceButler/simple-pad.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/simple-pad/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/simple-pad",
+  "devDependencies": {
+    "grape": "^1.0.1"
+  }
+}
