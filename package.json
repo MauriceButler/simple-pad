@@ -1,6 +1,6 @@
 {
   "name": "simple-pad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another left and right padding module",
   "main": "index.js",
   "directories": {
